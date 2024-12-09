@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Used by Research Biology for protocol " section_id="2a3ac6b3fb459a501141f4865eefdc0b" sys_domain="global" table="x_snc_syn_ip_mix_0_combination" version="3" view="workspace-ip-mixture-app-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flag_on_pathogen_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:28:12</sys_created_on>
+            <sys_id>77051340fb5992101141f4865eefdc46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:28:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flag_on_pathogen_3</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:28:12</sys_created_on>
+            <sys_id>b3051340fb5992101141f4865eefdc47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:28:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:28:12</sys_created_on>
+            <sys_id>bb051340fb5992101141f4865eefdc47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:28:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flag_on_pathogen_2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:28:12</sys_created_on>
+            <sys_id>b3051340fb5992101141f4865eefdc48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:28:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flag_on_pathogen_4</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:28:12</sys_created_on>
+            <sys_id>bb051340fb5992101141f4865eefdc48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:28:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Used by Research Biology for protocol </caption>
+            <header>false</header>
+            <name>x_snc_syn_ip_mix_0_combination</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a3ac6b3fb459a501141f4865eefdc0b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_snc_syn_ip_mix_0_combination</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+            <sys_update_name>sys_ui_section_2a3ac6b3fb459a501141f4865eefdc0b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:28:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace IP Mixture App 0" name="workspace-ip-mixture-app-0">a21a06736f459a50028ecf1d47e0cbe3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</application>
+        <file_path/>
+        <instance_id>3e1b0f163b781658baf6048aa4e45a61</instance_id>
+        <instance_name>syngentaipmixturetool</instance_name>
+        <name>sys_ui_section_2a3ac6b3fb459a501141f4865eefdc0b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Used by Research Biology for protocol " section_id="2a3ac6b3fb459a501141f4865eefdc0b" sys_domain="global" table="x_snc_syn_ip_mix_0_combination" version="3" view="workspace-ip-mixture-app-0"><sys_ui_element action="INSERT_OR_UPDATE"><element>flag_on_pathogen_1</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 19:28:12</sys_created_on><sys_id>77051340fb5992101141f4865eefdc46</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 19:28:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>flag_on_pathogen_3</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 19:28:12</sys_created_on><sys_id>b3051340fb5992101141f4865eefdc47</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 19:28:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 19:28:12</sys_created_on><sys_id>bb051340fb5992101141f4865eefdc47</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 19:28:12</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>flag_on_pathogen_2</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 19:28:12</sys_created_on><sys_id>b3051340fb5992101141f4865eefdc48</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 19:28:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>flag_on_pathogen_4</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 19:28:12</sys_created_on><sys_id>bb051340fb5992101141f4865eefdc48</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Used by Research Biology for protocol " display_value="Used by Research Biology for protocol " name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">2a3ac6b3fb459a501141f4865eefdc0b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 19:28:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Used by Research Biology for protocol </caption><header>false</header><name>x_snc_syn_ip_mix_0_combination</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-11 19:22:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2a3ac6b3fb459a501141f4865eefdc0b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_snc_syn_ip_mix_0_combination</sys_name><sys_overrides/><sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package><sys_policy/><sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope><sys_update_name>sys_ui_section_2a3ac6b3fb459a501141f4865eefdc0b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 19:28:12</sys_updated_on><sys_user/><title>false</title><view display_value="Workspace IP Mixture App 0" name="workspace-ip-mixture-app-0">a21a06736f459a50028ecf1d47e0cbe3</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>530383639</payload_hash>
+        <record_name>Combination</record_name>
+        <reverted_from/>
+        <source>3824cefffbc19a501141f4865eefdc0f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 19:28:12</sys_created_on>
+        <sys_id>73051340fb5992101141f4865eefdc4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1928233e63a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 19:28:12</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f7051340fc5992101ef764332b02554a</update_guid>
+        <update_guid_history>f7051340fc5992101ef764332b02554a:530383639,7b0513409e5992106aeecfb77caa3600:985528016,e63ac6b3b4459a506e9988362e439328:764158741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 11:35:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7dd47f3681df425c9e5eacc730e8fa64</sys_id>
+        <sys_metadata>2a3ac6b3fb459a501141f4865eefdc0b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Used by Research Biology for protocol </sys_name>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_parent display_value="Combination">3037467bfb059a501141f4865eefdc72</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_scope_delete display_value="">01859d945f67498081678e5caf72f900</sys_scope_delete>
+        <sys_update_name>sys_ui_section_2a3ac6b3fb459a501141f4865eefdc0b</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_2a3ac6b3fb459a501141f4865eefdc0b">73051340fb5992101141f4865eefdc4b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 11:35:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

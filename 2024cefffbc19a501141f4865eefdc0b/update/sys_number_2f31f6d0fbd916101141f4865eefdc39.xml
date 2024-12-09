@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_syn_ip_mix_0_patent_opportunity">x_snc_syn_ip_mix_0_patent_opportunity</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PATO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 11:30:12</sys_created_on>
+        <sys_id>2f31f6d0fbd916101141f4865eefdc39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PATO</sys_name>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_number_2f31f6d0fbd916101141f4865eefdc39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 11:30:12</sys_updated_on>
+    </sys_number>
+</record_update>

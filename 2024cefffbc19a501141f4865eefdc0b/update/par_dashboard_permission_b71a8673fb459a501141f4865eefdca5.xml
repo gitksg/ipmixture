@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="IP Mixture App">a21a067339459a50dbca6f54ba5650e6</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_snc_syn_ip_mix_0.user" name="x_snc_syn_ip_mix_0.user">f024cefffbc19a501141f4865eefdc33</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:22:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b71a8673fb459a501141f4865eefdca5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a21a067339459a50dbca6f54ba5650e6</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>par_dashboard_permission_b71a8673fb459a501141f4865eefdca5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:22:18</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_definition">
+    <sys_rte_eb_etl_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>true</copy_empty_fields>
+        <description>ETL definition for Import Patents 001</description>
+        <name>Import Patents 001_etl_ihub</name>
+        <on_after_script><![CDATA[(function onAfter(source, target, importLog) {
+
+	// Add your on after code here
+
+})(source, target, importLog);]]></on_after_script>
+        <on_after_script_bool>false</on_after_script_bool>
+        <on_before_script><![CDATA[(function onBefore(source, target, importLog) {
+
+	// Add your on before code here
+
+})(source, target, importLog);]]></on_before_script>
+        <on_before_script_bool>false</on_before_script_bool>
+        <sys_class_name>sys_rte_eb_etl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 20:36:59</sys_created_on>
+        <sys_id>1d6e20e03b1112906b02601eb3e45ada</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Import Patents 001_etl_ihub</sys_name>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_definition_1d6e20e03b1112906b02601eb3e45ada</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 20:36:59</sys_updated_on>
+    </sys_rte_eb_etl_definition>
+</record_update>

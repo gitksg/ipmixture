@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_snc_syn_ip_mix_0.admin" name="x_snc_syn_ip_mix_0.admin">f424cefffbc19a501141f4865eefdc2d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:22:19</sys_created_on>
+        <sys_id>c42ac673fb459a501141f4865eefdc3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_snc_syn_ip_mix_0.admin</sys_name>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_user_role_contains_c42ac673fb459a501141f4865eefdc3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:22:19</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

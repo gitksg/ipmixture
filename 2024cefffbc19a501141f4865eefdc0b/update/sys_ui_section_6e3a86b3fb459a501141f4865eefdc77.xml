@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Business Priority" section_id="6e3a86b3fb459a501141f4865eefdc77" sys_domain="global" table="x_snc_syn_ip_mix_0_combination" version="3" view="workspace-ip-mixture-app-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>selected_by_product_manager_product_biology</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:27:17</sys_created_on>
+            <sys_id>5ed4d700fb5992101141f4865eefdcde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Priority" display_value="Business Priority" name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">6e3a86b3fb459a501141f4865eefdc77</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:27:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:27:17</sys_created_on>
+            <sys_id>dad4d700fb5992101141f4865eefdcdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Priority" display_value="Business Priority" name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">6e3a86b3fb459a501141f4865eefdc77</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:27:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_priority</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:27:17</sys_created_on>
+            <sys_id>d2d4d700fb5992101141f4865eefdce0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Priority" display_value="Business Priority" name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">6e3a86b3fb459a501141f4865eefdc77</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:27:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:27:17</sys_created_on>
+            <sys_id>dad4d700fb5992101141f4865eefdce0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Priority" display_value="Business Priority" name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">6e3a86b3fb459a501141f4865eefdc77</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:27:17</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assessment_1</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-12 19:27:17</sys_created_on>
+            <sys_id>d2d4d700fb5992101141f4865eefdce1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Priority" display_value="Business Priority" name="x_snc_syn_ip_mix_0_combination" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">6e3a86b3fb459a501141f4865eefdc77</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-12 19:27:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Business Priority</caption>
+            <header>false</header>
+            <name>x_snc_syn_ip_mix_0_combination</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e3a86b3fb459a501141f4865eefdc77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_syn_ip_mix_0_combination</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+            <sys_update_name>sys_ui_section_6e3a86b3fb459a501141f4865eefdc77</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:45</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace IP Mixture App 0" name="workspace-ip-mixture-app-0">a21a06736f459a50028ecf1d47e0cbe3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

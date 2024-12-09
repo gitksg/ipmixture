@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_ribbon_setting">
+    <sys_aw_ribbon_setting action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <attrs/>
+        <component display_value="Customer360">931154a48710230084aca571d5cb0bc3</component>
+        <experience_restricted>true</experience_restricted>
+        <is_inheritable>false</is_inheritable>
+        <name>Customer 360</name>
+        <order>0</order>
+        <sys_class_name>sys_aw_ribbon_setting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>957cc23bfb459a501141f4865eefdcce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer 360</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_aw_ribbon_setting_957cc23bfb459a501141f4865eefdcce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <table>x_snc_syn_ip_mix_0_project</table>
+        <tag>sn-component-workspace-customer360</tag>
+        <width>2</width>
+        <workspace/>
+    </sys_aw_ribbon_setting>
+    <sys_variable_value action="delete_multiple" query="document_key=957cc23bfb459a501141f4865eefdcce"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>117cc23bfb459a501141f4865eefdcd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value>assigned_to</value>
+        <variable display_value="Primary user">8281d4a48710230084aca571d5cb0bc2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>157cc23bfb459a501141f4865eefdcd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value>first_name,last_name,title,department,employee_number,manager,email,mobile_phone,preferred_language</value>
+        <variable display_value="Primary fields">67b59cf08750230084aca571d5cb0b76</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>197cc23bfb459a501141f4865eefdccf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value>assigned_to</value>
+        <variable display_value="Primary user">8281d4a48710230084aca571d5cb0bc2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>197cc23bfb459a501141f4865eefdcd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value/>
+        <variable display_value="Tertiary user">c9838973ff143300dda74b9ad53bf17c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>55</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>517cc23bfb459a501141f4865eefdcd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value/>
+        <variable display_value="Tertiary reference table">11c34d73ff143300dda74b9ad53bf154</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>40</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>5d7cc23bfb459a501141f4865eefdcd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value/>
+        <variable display_value="Secondary fields">67d794348750230084aca571d5cb0bd0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>15</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>997cc23bfb459a501141f4865eefdcd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="Primary reference table">98335ca48710230084aca571d5cb0b43</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>9d7cc23bfb459a501141f4865eefdcce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value>first_name,last_name,title,department,employee_number,manager,email,mobile_phone,preferred_language</value>
+        <variable display_value="Primary fields">67b59cf08750230084aca571d5cb0b76</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>60</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>9d7cc23bfb459a501141f4865eefdcd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value/>
+        <variable display_value="Tertiary fields">81f3cd73ff143300dda74b9ad53bf1b0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>30</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>d57cc23bfb459a501141f4865eefdcd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value/>
+        <variable display_value="Secondary user">306650348750230084aca571d5cb0b06</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>d97cc23bfb459a501141f4865eefdccf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="Primary reference table">98335ca48710230084aca571d5cb0b43</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_aw_ribbon_setting</document>
+        <document_key>957cc23bfb459a501141f4865eefdcce</document_key>
+        <order>35</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:32:31</sys_created_on>
+        <sys_id>d97cc23bfb459a501141f4865eefdcd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:32:31</sys_updated_on>
+        <value/>
+        <variable display_value="Secondary reference table">5a3714348750230084aca571d5cb0b65</variable>
+    </sys_variable_value>
+</record_update>

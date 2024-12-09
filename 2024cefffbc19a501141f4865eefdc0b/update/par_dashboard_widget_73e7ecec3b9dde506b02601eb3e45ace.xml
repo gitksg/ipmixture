@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">bfe7ecec3b9dde506b02601eb3e45aa5</canvas>
+        <component display_value="Vertical bar">23051643b7e03010097cb81cde11a910</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","chartVariation":"stacked","yAxisHidden":false,"yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"xAxisTruncationType":"end","yAxisStyle":"default","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"above","showStackedValues":"none","showOverlappingLabels":false,"colorConfig":{"type":"palette","palette":"4566db19d7100200b96d45a3ce610319"},"newReporting":false,"dataSources":null,"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"State Distribution","showBorder":true,"bareBorder":false,"telemetry":"null","showDataPassthrough":true,"dataPassthrough":[{"data":[{"label":"Draft","value":"46"},{"label":"Assigned","value":"23"},{"label":"Released","value":"4"},{"label":"Business Priority Defined","value":"9"},{"label":"Patentability Defined","value":"20"},{"label":"Pathogens for testing Defined","value":"9"},{"label":"Testing Started","value":"3"},{"label":"Data Generated","value":"5"},{"label":"Ready for Patent Filing","value":"36"}],"metadata":{"eventData":{"table":""},"dataSourceLabel":"Incident","groupBy":[{"series":[{"label":"Incident","id":"value","type":"value"}],"elements":[{"eventData":{"query":"assignment_group="},"label":"(empty)","id":""},{"eventData":{"query":"assignment_group=d625dccec0a8016700a222a0f7900d06"},"label":"Service Desk","id":"d625dccec0a8016700a222a0f7900d06"},{"eventData":{"query":"assignment_group=8a5055c9c61122780043563ef53438e3"},"label":"Hardware","id":"8a5055c9c61122780043563ef53438e3"},{"eventData":{"query":"assignment_group=8a4dde73c6112278017a6a4baf547aa7"},"label":"Software","id":"8a4dde73c6112278017a6a4baf547aa7"},{"eventData":{"query":"assignment_group=287ebd7da9fe198100f92cc8d1d2154e"},"label":"Network","id":"287ebd7da9fe198100f92cc8d1d2154e"},{"eventData":{"query":"assignment_group=287ee6fea9fe198100ada7950d0b1b73"},"label":"Database","id":"287ee6fea9fe198100ada7950d0b1b73"},{"eventData":{"query":"assignment_group=36c741fa731313005754660c4cf6a70d"},"label":"Openspace","id":"36c741fa731313005754660c4cf6a70d"}],"label":"Assignment group","id":"label","fieldType":"reference"}],"format":{"unitFormat":"{0}"},"aggregateBy":4,"metricId":"ZEdGaWJHVnBibU5wWkdWdWRERTJORFl5TXpRNE5UTXpNams9MTY0NjIzNDg1NTEwNg=="}}],"metrics":null,"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":false,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":false,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":12,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":null,"period":"M","dateFormat":"default"}</component_props>
+        <h>19</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 20:08:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>73e7ecec3b9dde506b02601eb3e45ace</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>par_dashboard_widget_73e7ecec3b9dde506b02601eb3e45ace</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 20:13:09</sys_updated_on>
+        <visualization/>
+        <w>24</w>
+        <widget_props/>
+        <x>24</x>
+        <y>24</y>
+    </par_dashboard_widget>
+</record_update>

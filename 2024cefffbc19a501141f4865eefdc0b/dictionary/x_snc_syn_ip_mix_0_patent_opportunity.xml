@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d731b6d0fbd916101141f4865eefdcdc" extends="task" label="Patent Opportunity" max_length="40" name="x_snc_syn_ip_mix_0_patent_opportunity" type="collection">
+        <element label="Testing Result" max_length="255" name="testing_result" type="boolean"/>
+        <element label="Project" max_length="32" name="project" reference="x_snc_syn_ip_mix_0_project" type="reference"/>
+        <element label="Selected" max_length="255" name="selected" type="boolean"/>
+        <element label="Combination" max_length="32" name="combination" reference="x_snc_syn_ip_mix_0_combination" type="reference"/>
+    </element>
+</database>

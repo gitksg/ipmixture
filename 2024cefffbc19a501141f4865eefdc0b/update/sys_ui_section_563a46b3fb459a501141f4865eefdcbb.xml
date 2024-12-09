@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="563a46b3fb459a501141f4865eefdcbb" sys_domain="global" table="x_snc_syn_ip_mix_0_project" version="3" view="workspace-ip-mixture-app-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:44</sys_created_on>
+            <sys_id>5a3a86b3fb459a501141f4865eefdc30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a46b3fb459a501141f4865eefdcbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:44</sys_created_on>
+            <sys_id>123a86b3fb459a501141f4865eefdc2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a46b3fb459a501141f4865eefdcbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_assignee_list</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:44</sys_created_on>
+            <sys_id>563a86b3fb459a501141f4865eefdc31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a46b3fb459a501141f4865eefdcbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:44</sys_created_on>
+            <sys_id>d23a86b3fb459a501141f4865eefdc30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a46b3fb459a501141f4865eefdcbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:44</sys_created_on>
+            <sys_id>de3a86b3fb459a501141f4865eefdc30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a46b3fb459a501141f4865eefdcbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:44</sys_created_on>
+            <sys_id>5e3a86b3fb459a501141f4865eefdc2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a46b3fb459a501141f4865eefdcbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_syn_ip_mix_0_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>563a46b3fb459a501141f4865eefdcbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_syn_ip_mix_0_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+            <sys_update_name>sys_ui_section_563a46b3fb459a501141f4865eefdcbb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace IP Mixture App 0" name="workspace-ip-mixture-app-0">a21a06736f459a50028ecf1d47e0cbe3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

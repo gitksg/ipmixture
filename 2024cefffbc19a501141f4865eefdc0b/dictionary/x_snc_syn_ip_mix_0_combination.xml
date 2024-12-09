@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3037467bfb059a501141f4865eefdc72" label="Combination" max_length="40" name="x_snc_syn_ip_mix_0_combination" text_index="true" type="collection">
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Flag on Pathogen 3" max_length="255" name="flag_on_pathogen_3" type="boolean"/>
+        <element label="Assessment" max_length="65536" name="assessment_1" type="string"/>
+        <element label="Ingredient 2" max_length="32" name="ingredient_2" reference="x_snc_syn_ip_mix_0_active_ingredient" type="reference"/>
+        <element label="Ingredient 1" max_length="32" name="ingredient_1" reference="x_snc_syn_ip_mix_0_active_ingredient" type="reference"/>
+        <element label="Input from Patent attorney" max_length="255" name="input_from_patent_attorney" type="boolean"/>
+        <element label="Flag on Pathogen 2" max_length="40" name="flag_on_pathogen_2" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Business Priority" max_length="40" name="business_priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="2" value="Low"/>
+                <element inactive_on_update="false" label="High" sequence="0" value="High"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="Medium"/>
+            </choice>
+        </element>
+        <element choice="1" label="Patentability" max_length="40" name="patentability" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="2" value="Low"/>
+                <element inactive_on_update="false" label="High" sequence="0" value="High"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="Medium"/>
+            </choice>
+        </element>
+        <element label="Assessment" max_length="65536" name="assessment_2" type="string"/>
+        <element label="Pathogen 1" max_length="255" name="pathogens_1" type="boolean"/>
+        <element label="Selected by Product Manager / Product Biology" max_length="255" name="selected_by_product_manager_product_biology" type="boolean"/>
+        <element label="Pathogen 4" max_length="255" name="pathogens_4" type="boolean"/>
+        <element label="Pathogen 2" max_length="255" name="pathogens_2" type="boolean"/>
+        <element label="Project" max_length="32" name="project" reference="x_snc_syn_ip_mix_0_project" type="reference"/>
+        <element label="Flag on Pathogen 4" max_length="255" name="flag_on_pathogen_4" type="boolean"/>
+        <element label="Priority" max_length="40" name="priority" type="string"/>
+        <element label="Pathogen 3" max_length="255" name="pathogens_3" type="boolean"/>
+        <element label="Flag on Pathogen 1" max_length="255" name="flag_on_pathogen_1" type="boolean"/>
+        <index name="index">
+            <element name="ingredient_1"/>
+        </index>
+        <index name="index2">
+            <element name="ingredient_2"/>
+        </index>
+        <index name="index3">
+            <element name="project"/>
+        </index>
+    </element>
+</database>

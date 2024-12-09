@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true" audit="true" db_object_id="1484ce33fb059a501141f4865eefdc57" extends="task" label="Project" max_length="40" name="x_snc_syn_ip_mix_0_project" text_index="true" type="collection">
+        <element label="AI code name (SYN number)" max_length="40" name="ai_code_name_syn_number" type="string"/>
+        <element label="AI tradename (if applicable)" max_length="40" name="ai_tradename_if_applicable" type="string"/>
+        <element display="true" label="AI common name" max_length="40" name="ai_common_name" type="string"/>
+    </element>
+</database>

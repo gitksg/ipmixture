@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FDcc5ee0e0d5111290e47ef39f9e8916b6">405ee0e03b1112906b02601eb3e45ab7</published_source_structure>
+        <record_id>d63e28a03b1112906b02601eb3e45a35</record_id>
+        <source_structure display_value="ih_import_FDcc5ee0e0d5111290e47ef39f9e8916b6">405ee0e03b1112906b02601eb3e45ab7</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 20:36:28</sys_created_on>
+        <sys_id>394e60e03b1112906b02601eb3e45a67</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_394e60e03b1112906b02601eb3e45a67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 20:37:03</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>

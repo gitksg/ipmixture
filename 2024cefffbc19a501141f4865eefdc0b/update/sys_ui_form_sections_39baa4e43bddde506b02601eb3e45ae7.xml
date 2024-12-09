@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="39baa4e43bddde506b02601eb3e45ae7" sys_domain="global" table="customer_contact" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-13 20:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dba64283bddde506b02601eb3e45a3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="customer_contact" name="customer_contact" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">39baa4e43bddde506b02601eb3e45ae7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="customer_contact" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">75ba64283bddde506b02601eb3e45a32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-13 20:20:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-13 20:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9ba64283bddde506b02601eb3e45a31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="customer_contact" name="customer_contact" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">39baa4e43bddde506b02601eb3e45ae7</sys_ui_form>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="customer_contact" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">31ba64283bddde506b02601eb3e45a29</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-13 20:20:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-13 20:20:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0eba64283bddde506b02601eb3e45a46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="customer_contact" name="customer_contact" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">39baa4e43bddde506b02601eb3e45ae7</sys_ui_form>
+            <sys_ui_section caption="Contact Details" display_value="Contact Details" name="customer_contact" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">b1ba64283bddde506b02601eb3e45a3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-13 20:20:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>customer_contact</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-13 20:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39baa4e43bddde506b02601eb3e45ae7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customer_contact</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_39baa4e43bddde506b02601eb3e45ae7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-13 20:20:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Human Resources" name="human_resources">3e5370019f22120047a2d126c42e705b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

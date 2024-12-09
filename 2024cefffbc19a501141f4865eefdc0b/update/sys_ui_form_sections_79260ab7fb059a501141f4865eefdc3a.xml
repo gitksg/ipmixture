@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="79260ab7fb059a501141f4865eefdc3a" sys_domain="global" table="x_snc_syn_ip_mix_0_project" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6260ab7fb059a501141f4865eefdc3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_syn_ip_mix_0_project" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="Default view">79260ab7fb059a501141f4865eefdc3a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="Default view">bc84ce33fb059a501141f4865eefdce5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:04:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2260ab7fb059a501141f4865eefdc3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_syn_ip_mix_0_project" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="Default view">79260ab7fb059a501141f4865eefdc3a</sys_ui_form>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="Default view">b9260ab7fb059a501141f4865eefdc39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:04:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_syn_ip_mix_0_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79260ab7fb059a501141f4865eefdc3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_syn_ip_mix_0_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_79260ab7fb059a501141f4865eefdc3a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:04:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

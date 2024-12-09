@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="sn_ihub_target_newvalue">e27ea8e03b1112906b02601eb3e45a90</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 20:37:21</sys_created_on>
+        <sys_id>7a7ea8e03b1112906b02601eb3e45aef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Import Patents 001_etl_ihub">1d6e20e03b1112906b02601eb3e45ada</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">be7ea8e03b1112906b02601eb3e45ae8</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_7a7ea8e03b1112906b02601eb3e45aef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 20:37:21</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Event Value">ee7ea8e03b1112906b02601eb3e45a69</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

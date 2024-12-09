@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Import Patents 001</description>
+        <name>Import Patents 001_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="Import Patents 001_etl_ihub">1d6e20e03b1112906b02601eb3e45ada</robust_transform_engine>
+        <source_table>x_snc_syn_ip_mix_0_ihub_import_123e28a03b1112906b02601eb3e45a34</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 20:36:59</sys_created_on>
+        <sys_id>a56e20e03b1112906b02601eb3e45ade</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Import Patents 001_rte_ihub</sys_name>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_a56e20e03b1112906b02601eb3e45ade</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 20:36:59</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

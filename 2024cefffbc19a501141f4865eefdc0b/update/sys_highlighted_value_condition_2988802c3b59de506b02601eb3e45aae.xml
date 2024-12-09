@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color>pink</color>
+        <conditions table="x_snc_syn_ip_mix_0_project">state=4^EQ<item display_value="Business Priority Defined" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="4"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <form_label_description/>
+        <hide_form_label>false</hide_form_label>
+        <highlighted_value display_value="state">814888a83b59de506b02601eb3e45aca</highlighted_value>
+        <icon/>
+        <order>0</order>
+        <show_icon>false</show_icon>
+        <status/>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 17:51:31</sys_created_on>
+        <sys_id>2988802c3b59de506b02601eb3e45aae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_2988802c3b59de506b02601eb3e45aae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 17:51:31</sys_updated_on>
+        <value_override/>
+        <variant>tertiary</variant>
+    </sys_highlighted_value_condition>
+</record_update>

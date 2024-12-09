@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="AI Key ttributes" section_id="563a86b3fb459a501141f4865eefdc32" sys_domain="global" table="x_snc_syn_ip_mix_0_project" version="3" view="workspace-ip-mixture-app-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ai_common_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>023bc677fb459a501141f4865eefdc1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ai_tradename_if_applicable</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>4e3bc677fb459a501141f4865eefdc1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>463bc677fb459a501141f4865eefdc1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ai_code_name_syn_number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>4e3bc677fb459a501141f4865eefdc1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>463bc677fb459a501141f4865eefdc1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>4e3bc677fb459a501141f4865eefdc1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>463bc677fb459a501141f4865eefdc1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>4e3bc677fb459a501141f4865eefdc1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>463bc677fb459a501141f4865eefdc20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:27:06</sys_created_on>
+            <sys_id>4e3bc677fb459a501141f4865eefdc20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="AI Key ttributes" display_value="AI Key ttributes" name="x_snc_syn_ip_mix_0_project" sys_domain="global" view="a21a06736f459a50028ecf1d47e0cbe3">563a86b3fb459a501141f4865eefdc32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:27:06</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>AI Key ttributes</caption>
+            <header>false</header>
+            <name>x_snc_syn_ip_mix_0_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 19:22:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>563a86b3fb459a501141f4865eefdc32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_syn_ip_mix_0_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+            <sys_update_name>sys_ui_section_563a86b3fb459a501141f4865eefdc32</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 19:22:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace IP Mixture App 0" name="workspace-ip-mixture-app-0">a21a06736f459a50028ecf1d47e0cbe3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

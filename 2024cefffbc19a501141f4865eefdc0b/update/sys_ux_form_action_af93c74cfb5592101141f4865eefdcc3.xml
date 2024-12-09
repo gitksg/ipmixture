@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Assigned</name>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 18:11:59</sys_created_on>
+        <sys_id>af93c74cfb5592101141f4865eefdcc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned</sys_name>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_ux_form_action_af93c74cfb5592101141f4865eefdcc3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 18:11:59</sys_updated_on>
+        <table>x_snc_syn_ip_mix_0_project</table>
+        <ui_action/>
+    </sys_ux_form_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=af93c74cfb5592101141f4865eefdcc3"/>
+</record_update>

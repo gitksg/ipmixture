@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_auto_discovery_report_definition">
+    <sn_auto_discovery_report_definition action="INSERT_OR_UPDATE">
+        <closed_column>closed_at</closed_column>
+        <cluster_records>true</cluster_records>
+        <current_stage>1</current_stage>
+        <distribution_column>priority</distribution_column>
+        <field>short_description</field>
+        <filter table="x_snc_master_dat_0_master_data">active=false<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+        </filter>
+        <group_field>category</group_field>
+        <integration/>
+        <model/>
+        <name>PO - Automation Discovery Report Material Master Process</name>
+        <opened_column>opened_at</opened_column>
+        <rule_based_model_id/>
+        <solution_definition/>
+        <status>solution_complete</status>
+        <sys_class_name>sn_auto_discovery_report_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 20:43:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c6cf68a0fbdd56101141f4865eefdca1</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sn_auto_discovery_report_definition_c6cf68a0fbdd56101141f4865eefdca1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-13 20:43:45</sys_updated_on>
+        <table>x_snc_master_dat_0_master_data</table>
+        <training_frequency>run_once</training_frequency>
+        <user_fields>state,contact_type,assignment_group,opened_at,closed_at</user_fields>
+        <watch_list/>
+    </sn_auto_discovery_report_definition>
+</record_update>

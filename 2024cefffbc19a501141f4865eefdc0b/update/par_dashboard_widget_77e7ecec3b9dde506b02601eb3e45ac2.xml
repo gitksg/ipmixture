@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">bfe7ecec3b9dde506b02601eb3e45aa5</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"newReporting":false,"showSparkline":true,"dataPassthrough":null,"configVersion":"23.0.0-ci-SNAPSHOT","groupBy":null,"trendBy":null,"showMaximumRange":false,"enableRealTimeUpdate":false,"scoreType":null,"showScoreUpdateTime":false,"colorConfig":{"type":"singleColor","values":[{"color":"a7975be673b013008ad6ce67cdf6a720","metric":"20c628e83b9dde506b02601eb3e45a28"}]},"showFilterIcon":true,"followFilters":true,"headingPosition":null,"showChange":true,"showTarget":true,"showGapPercentage":true,"showScoreDate":true,"showChangePercentage":true,"showChangeFrom":"previous","showZero":false,"dataSources":[{"allowRealTime":true,"allowTotalValue":true,"indicatorType":"1","isScriptedIndicator":false,"label":"Patent Filing Success Rate","sourceType":"indicator","uuid":{"indicator":"a4c628e83b9dde506b02601eb3e45a29","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"a4c628e83b9dde506b02601eb3e45a29","dataCategories":["trend","group","simple"]}],"metrics":[{"dataSource":"a4c628e83b9dde506b02601eb3e45a29","id":"20c628e83b9dde506b02601eb3e45a28","aggregateIndicator":"587fad00eb31020065deac6aa206fea5","frequency":40,"numberFormat":{"customFormat":false},"axisId":"primary","frequencyInterval":"MONTH_PLUS"}],"headerTitle":"Patent Filing Success Rate","description":"","applyDateRange":false,"startTime":null,"endTime":null,"enableDrilldown":true,"period":"M","numberOfPeriods":12,"sparklineStyle":"area"}</component_props>
+        <h>12</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 20:08:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77e7ecec3b9dde506b02601eb3e45ac2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>par_dashboard_widget_77e7ecec3b9dde506b02601eb3e45ac2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 20:08:45</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <widget_props/>
+        <x>12</x>
+        <y>12</y>
+    </par_dashboard_widget>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a1b6cef7fb059a501141f4865eefdc61" label="Active Ingredient" max_length="40" name="x_snc_syn_ip_mix_0_active_ingredient" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="250" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Formula" max_length="40" name="formula" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Active Ingredient" max_length="50" name="active_ingredient" type="string"/>
+    </element>
+</database>

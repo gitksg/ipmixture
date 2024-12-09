@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config_setting">
+    <sys_ux_ribbon_config_setting action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="IP Mixture App Ribbon Config">ea1a067397459a50af154da5b18d89d0</configuration>
+        <order>200</order>
+        <ribbon display_value="Active SLA">9c1c823bfb459a501141f4865eefdc8c</ribbon>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_ribbon_config_setting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:30:48</sys_created_on>
+        <sys_id>901c823bfb459a501141f4865eefdc92</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_setting_901c823bfb459a501141f4865eefdc92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 19:33:00</sys_updated_on>
+        <table>x_snc_syn_ip_mix_0_project</table>
+        <width>2</width>
+    </sys_ux_ribbon_config_setting>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="DELETE">
+        <color>gray</color>
+        <conditions table="x_snc_syn_ip_mix_0_combination">pathogens_2=false^EQ<item endquery="false" field="pathogens_2" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <form_label_description/>
+        <hide_form_label>false</hide_form_label>
+        <highlighted_value display_value="pathogens_1">c891c018fb11d2101141f4865eefdc8d</highlighted_value>
+        <icon/>
+        <order>0</order>
+        <show_icon>false</show_icon>
+        <status/>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 22:45:59</sys_created_on>
+        <sys_id>c1524c58fb11d2101141f4865eefdc01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_c1524c58fb11d2101141f4865eefdc01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 22:45:59</sys_updated_on>
+        <value_override/>
+        <variant>tertiary</variant>
+    </sys_highlighted_value_condition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</application>
+        <file_path/>
+        <instance_id>3e1b0f163b781658baf6048aa4e45a61</instance_id>
+        <instance_name>syngentaipmixturetool</instance_name>
+        <name>sys_highlighted_value_condition_c1524c58fb11d2101141f4865eefdc01</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition"><sys_highlighted_value_condition action="INSERT_OR_UPDATE"><color>gray</color><conditions table="x_snc_syn_ip_mix_0_combination">pathogens_2=false^EQ<item endquery="false" field="pathogens_2" goto="false" newquery="false" operator="=" or="false" value="false"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></conditions><form_label_description/><hide_form_label>false</hide_form_label><highlighted_value display_value="pathogens_1">c891c018fb11d2101141f4865eefdc8d</highlighted_value><icon/><order>0</order><show_icon>false</show_icon><status/><sys_class_name>sys_highlighted_value_condition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 22:45:59</sys_created_on><sys_id>c1524c58fb11d2101141f4865eefdc01</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package><sys_policy/><sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope><sys_update_name>sys_highlighted_value_condition_c1524c58fb11d2101141f4865eefdc01</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 22:45:59</sys_updated_on><value_override/><variant>tertiary</variant></sys_highlighted_value_condition></record_update>]]></payload>
+        <payload_hash>1916221127</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3824cefffbc19a501141f4865eefdc0f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 22:45:59</sys_created_on>
+        <sys_id>45524c58fb11d2101141f4865eefdc03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19282e8fb0e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 22:45:59</sys_updated_on>
+        <type>Highlighted Value Condition</type>
+        <update_guid>09524c584b11d21015d6afdc8683a902</update_guid>
+        <update_guid_history>09524c584b11d21015d6afdc8683a902:1916221127</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 22:57:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_highlighted_value_condition">sys_highlighted_value_condition</sys_db_object>
+        <sys_id>6e7f90f50d7342fcbbc006d2a8cab890</sys_id>
+        <sys_metadata>c1524c58fb11d2101141f4865eefdc01</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IP Mixture App" source="x_snc_syn_ip_mix_0">2024cefffbc19a501141f4865eefdc0b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IP Mixture App">2024cefffbc19a501141f4865eefdc0b</sys_scope>
+        <sys_scope_delete display_value="">01859d945f67498081678e5caf72f900</sys_scope_delete>
+        <sys_update_name>sys_highlighted_value_condition_c1524c58fb11d2101141f4865eefdc01</sys_update_name>
+        <sys_update_version display_value="sys_highlighted_value_condition_c1524c58fb11d2101141f4865eefdc01">45524c58fb11d2101141f4865eefdc03</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 22:57:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
